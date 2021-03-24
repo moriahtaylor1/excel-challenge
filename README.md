@@ -1,5 +1,5 @@
 # excel-challenge
-Excel assignment covering conditional formatting, formulas, PivotTables, and PivotCharts (due 03-06-2021)
+Excel assignment covering conditional formatting, formulas, PivotTables, and PivotCharts (Due: 03-06-2021)
 
 ## Background
 
